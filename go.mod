@@ -4,6 +4,7 @@ go 1.16
 
 require (
 	github.com/99designs/keyring v1.1.6
+	github.com/AdaLogics/go-fuzz-headers v0.0.0-20230811130428-ced1acdcaa24 // indirect
 	github.com/AlecAivazis/survey/v2 v2.1.1
 	github.com/blang/semver v3.5.1+incompatible
 	github.com/briandowns/spinner v1.11.1
@@ -12,7 +13,7 @@ require (
 	github.com/cosmos/cosmos-sdk v0.44.6
 	github.com/cosmos/go-bip39 v1.0.0
 	github.com/cosmos/ibc-go/v2 v2.0.3
-	github.com/docker/docker v20.10.7+incompatible
+	github.com/docker/docker v24.0.7+incompatible
 	github.com/emicklei/proto v1.9.0
 	github.com/fatih/color v1.12.0
 	github.com/ghodss/yaml v1.0.0
@@ -33,6 +34,8 @@ require (
 	github.com/jpillora/chisel v1.7.7
 	github.com/manifoldco/promptui v0.9.0
 	github.com/mattn/go-zglob v0.0.3
+	github.com/moby/patternmatcher v0.6.0 // indirect
+	github.com/moby/sys/sequential v0.5.0 // indirect
 	github.com/otiai10/copy v1.6.0
 	github.com/pelletier/go-toml v1.9.4
 	github.com/pkg/errors v0.9.1
