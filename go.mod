@@ -16,7 +16,7 @@ require (
 	github.com/emicklei/proto v1.9.0
 	github.com/fatih/color v1.12.0
 	github.com/ghodss/yaml v1.0.0
-	github.com/go-git/go-git/v5 v5.1.0
+	github.com/go-git/go-git/v5 v5.11.0
 	github.com/gobuffalo/genny v0.6.0
 	github.com/gobuffalo/logger v1.0.3
 	github.com/gobuffalo/packd v0.3.0
@@ -42,16 +42,16 @@ require (
 	github.com/spf13/cast v1.4.1
 	github.com/spf13/cobra v1.2.1
 	github.com/spf13/pflag v1.0.5
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.4
 	github.com/takuoki/gocase v1.0.0
 	github.com/tendermint/flutter/v2 v2.0.3
 	github.com/tendermint/spn v0.1.1-0.20220307175754-0b579dc934ec
 	github.com/tendermint/tendermint v0.34.14
 	github.com/tendermint/tm-db v0.6.4
 	github.com/tendermint/vue v0.3.0
-	golang.org/x/mod v0.4.2
-	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/term v0.0.0-20210927222741-03fcf44c2211
+	golang.org/x/mod v0.12.0
+	golang.org/x/sync v0.3.0
+	golang.org/x/term v0.15.0
 	google.golang.org/grpc v1.44.0
 )
 
